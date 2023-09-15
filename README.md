@@ -1,0 +1,2 @@
+# xmind2testcasezen
+XMind2TestCaseZen基于XMind2TestCase做二次开发，提供了一个高效测试用例设计的解决方案！
